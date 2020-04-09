@@ -1,1 +1,12 @@
 # Created by .ignore support plugin (hsz.mobi)
+.idea/.idea.DateTimePluralsight/.idea/.gitignore
+.idea/.idea.DateTimePluralsight/.idea/contentModel.xml
+.idea/.idea.DateTimePluralsight/.idea/indexLayout.xml
+.idea/.idea.DateTimePluralsight/.idea/misc.xml
+.idea/.idea.DateTimePluralsight/.idea/modules.xml
+.idea/.idea.DateTimePluralsight/.idea/projectSettingsUpdater.xml
+.idea/.idea.DateTimePluralsight/riderModule.iml
+.vs/
+bin
+obj
+vcs.xml
